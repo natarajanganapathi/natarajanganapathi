@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Natarajan Ganapathi
+- 👀 I’m interested in Cloud Native / Microservice application development
+- 🌱 I’m currently learning Rust Language
+- 💞️ I’m looking to collaborate on Azure Cloud Community
+- 📫 You can reach me natarajanmca11@outlook.com
